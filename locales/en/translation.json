@@ -1,0 +1,12 @@
+{
+  "login": "login",
+  "logout": "logout",
+  "dashboard": "dashboard",
+  "register": "register",
+  "users": "users",
+  "employees": "employees",
+  "help": "help",
+  "managers": "managers",
+  "peoples": "peoples",
+  "inventory": "inventory"
+}

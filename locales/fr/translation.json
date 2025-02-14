@@ -1,0 +1,11 @@
+{
+  "login": "connexion",
+  "logout": "déconnexion",
+  "dashboard": "tableau de bord",
+  "register": "registre",
+  "users": "utilisateurs",
+  "help": "aide",
+  "managers": "gestionnaires",
+  "peoples": "étudiants",
+  "inventory": "inventaire"
+}
