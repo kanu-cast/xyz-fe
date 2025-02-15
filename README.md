@@ -1,1 +1,1 @@
-# xyz-fe inventory project
+# XYZ-fe inventory project

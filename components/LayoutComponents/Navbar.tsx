@@ -49,7 +49,7 @@ const Navbar: React.FC = () => {
           <TfiMenu />
         </span>
         <span className="inline-block pointer">
-          <span className="clr-green bold-2 font-4">xyz</span>
+          <span className="clr-green bold-2 font-4"> XYZ</span>
         </span>
       </div>
 

@@ -1,6 +1,6 @@
 export const inventoryItems = [
   {
-    item_id: 'e4d8a9cf-1234-5678-9101',
+    item_id: 'e4d8a9cf-5678-9101',
     name: 'Dell XPS 15',
     category: 'Device',
     serial_number: 'DELL12345',
@@ -9,7 +9,7 @@ export const inventoryItems = [
     created_at: new Date(),
   },
   {
-    item_id: 'f5e6d7c8-1234-5678-9101',
+    item_id: 'f5e6d7c8-5678-9101',
     name: 'Office Chair',
     category: 'Furniture',
     serial_number: 'CHAIR12345',
@@ -18,7 +18,7 @@ export const inventoryItems = [
     created_at: new Date(),
   },
   {
-    item_id: 'a1b2c3d4-5678-9101-1234',
+    item_id: 'a1b2c3d4-5678-9101',
     name: 'Blender',
     category: 'Food Utensil',
     serial_number: 'BLEND12345',
@@ -27,7 +27,7 @@ export const inventoryItems = [
     created_at: new Date(),
   },
   {
-    item_id: 'b2c3d4e5-6789-1011-1234',
+    item_id: 'b2c3d4e5-6789-1011',
     name: 'Vacuum Cleaner',
     category: 'Cleaning Material',
     serial_number: 'VAC12345',
@@ -36,7 +36,7 @@ export const inventoryItems = [
     created_at: new Date(),
   },
   {
-    item_id: 'c3d4e5f6-7891-0111-1234',
+    item_id: 'c3d4e5f6-7891-0111',
     name: 'Desk',
     category: 'Furniture',
     serial_number: 'DESK12345',
@@ -45,7 +45,7 @@ export const inventoryItems = [
     created_at: new Date(),
   },
   {
-    item_id: 'd4e5f6g7-8910-1112-1234',
+    item_id: 'd4e5f6g7-8910-1112',
     name: 'Microwave',
     category: 'Food Utensil',
     serial_number: 'MICRO12345',

@@ -221,7 +221,7 @@ const UsersWrapper = () => {
         <UsersList />
         <footer className="b-top-1px-green card block mt-2 mt-lg-3 text-center mb-0  ">
           <span className="block pointer font-1 bold py-3">
-            &copy; Copyright Dealmakers. All Rights Reserved 2025
+            &copy; Copyright XYZ All Rights Reserved 2025
           </span>
         </footer>
       </div>
